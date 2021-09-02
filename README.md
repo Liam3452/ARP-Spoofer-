@@ -4,4 +4,4 @@ This is a code in python that does arp-spoofing, arp spoof is basicly when a att
 
 How to use the code 
 
-python3 arpspoof.py <router ip> <victim ip> 
+python3 arpspoof.py (router ip) (victim ip) 
