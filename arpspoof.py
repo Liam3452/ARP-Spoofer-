@@ -3,6 +3,7 @@
 import scapy.all as scapy
 import sys
 import time
+import os
 
 os.system('echo 1 > /proc/sys/net/ipv4/ip_forward')
 
